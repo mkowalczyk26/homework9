@@ -298,8 +298,8 @@ ___
 
 ## Running the application
 
-Run `homework8.js` file using node
+Run `homework9.js` file using node
 
 ```bash
-node homework8.js
+node homework9.js
 ````
