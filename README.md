@@ -1,5 +1,5 @@
 
-# Online Bookstore Application
+# Data Structures and Algorithms
 
 This project is implementation of some data structures and algorithms.
 
